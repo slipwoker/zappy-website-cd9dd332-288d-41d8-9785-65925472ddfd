@@ -1,0 +1,117 @@
+# Halo Rose — Generative Engine Optimization Map
+
+> Halo Rose is a handmade epoxy resin art brand created in Israel, born from a deep love of art and the meditative process of working with hands. The brand creates unique, soulful objects — including Judaica, decorative figures, jewelry, and personalized designs — using casting, layering, and hand-finishing techniques. The signature color palette flows from turquoise and blue through lilac and deep purple, evoking depth, calm, and artistic richness. Each piece is crafted for people who appreciate objects with character — items meant to be held, displayed at home, or gifted with meaning.
+
+---
+
+## Pages
+
+### בית
+https://halo-rose-cd9dd332.zappy5.app
+גלו את עולם התכשיטים והאמנות בעבודת יד מבית Halo Rose. טבעות, תליונים, יודאיקה ודמויות מעוצבות בשרף אפוקסי בגווני טורקיז, לילך וסגול עמוק. לכל פריט נשמה משלו, מושלם למתנה או לבית. היכנסו עכשיו לגלריה!
+
+### הסיפור שלנו
+https://halo-rose-cd9dd332.zappy5.app/story
+הצטרפו למסע של Halo Rose, מותג אמנות אפוקסי שנולד מאהבה ליצירה מדיטטיבית בידיים. הכירו את הסיפור שמאחורי תכשיטי רוז גולד, יודאיקה ודמויות ייחודיות בגווני כחול וסגול. לחצו לקרוא עוד על ההשראה!
+
+### גלריה
+https://halo-rose-cd9dd332.zappy5.app/gallery
+דפדפו בגלריית Halo Rose ומצאו השראה בטבעות, תליונים, ברווזים דקורטיביים ויודאיקה בעבודת שרף ידנית. כל יצירה משדרת עומק ורוגע עם פלטת צבעים ייחודית. גלו את הפריט הבא שלכם עוד היום!
+
+### עיצוב אישי
+https://halo-rose-cd9dd332.zappy5.app/custom-design
+רוצים טבעת הילה רוז גולד או דמות אפוקסי בהתאמה אישית? ב-Halo Rose נעצב יחד פריט ייחודי שמשקף את הסיפור שלכם, בטכניקות יציקה ידניות וגימור מושלם. צרו קשר והתחילו לתכנן את החלום!
+
+### צור קשר
+https://halo-rose-cd9dd332.zappy5.app/contact
+יש שאלה על תכשיט אפוקסי, רוז גולד או עיצוב יודאיקה אישי? צוות Halo Rose ישמח לשמוע מכם! מלאו את הטופס ונחזור אליכם במהירות עם חיוך וכל התשובות. בואו ליצור איתנו קשר עכשיו.
+
+### Products
+https://halo-rose-cd9dd332.zappy5.app/products
+המוצרים שלנו - Halo Rose
+
+### Cart
+https://halo-rose-cd9dd332.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://halo-rose-cd9dd332.zappy5.app/checkout
+תשלום
+
+### Login
+https://halo-rose-cd9dd332.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://halo-rose-cd9dd332.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://halo-rose-cd9dd332.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://halo-rose-cd9dd332.zappy5.app/product/:slug
+פרטי המוצר - Halo Rose
+
+### Category
+https://halo-rose-cd9dd332.zappy5.app/category/:slug
+מוצרים - Halo Rose
+
+### תודה רבה
+https://halo-rose-cd9dd332.zappy5.app/thank-you
+Halo Rose - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://halo-rose-cd9dd332.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://halo-rose-cd9dd332.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://halo-rose-cd9dd332.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Halo Rose
+Halo Rose is a handmade epoxy resin art brand created in Israel, born from a deep love of art and the meditative process of working with hands. The brand creates unique, soulful objects — including Judaica, decorative figures, jewelry, and personalized designs — using casting, layering, and hand-finishing techniques. The signature color palette flows from turquoise and blue through lilac and deep purple, evoking depth, calm, and artistic richness. Each piece is crafted for people who appreciate objects with character — items meant to be held, displayed at home, or gifted with meaning.
+
+## Services/Products
+- יודאיקה
+- דמויות נוי
+- תכשיטים
+- עיצוב אישי
+- יציקת אפוקסי
+- עבודות שכבות וגימור ידני
+
+## Target Audience
+- אנשים שאוהבים חפצים עם אופי
+- חובבי חפצים עם אופי
+- מעצבי פנים מודרניים
+- אוספי תכשיטים
+
+## Industry
+Handmade Art & Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://halo-rose-cd9dd332.zappy5.app/sitemap.xml
+- Robots: https://halo-rose-cd9dd332.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://halo-rose-cd9dd332.zappy5.app/llms-full.txt
+- Products (JSON): https://halo-rose-cd9dd332.zappy5.app/products.json
+- Products (Google Merchant RSS): https://halo-rose-cd9dd332.zappy5.app/product-feed.xml
