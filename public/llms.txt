@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://halo-rose-cd9dd332.zappy5.app
+https://example.com
 גלו את עולם התכשיטים והאמנות בעבודת יד מבית Halo Rose. טבעות, תליונים, יודאיקה ודמויות מעוצבות בשרף אפוקסי בגווני טורקיז, לילך וסגול עמוק. לכל פריט נשמה משלו, מושלם למתנה או לבית. היכנסו עכשיו לגלריה!
 
 ### הסיפור שלנו
-https://halo-rose-cd9dd332.zappy5.app/story
+https://example.com/story
 הצטרפו למסע של Halo Rose, מותג אמנות אפוקסי שנולד מאהבה ליצירה מדיטטיבית בידיים. הכירו את הסיפור שמאחורי תכשיטי רוז גולד, יודאיקה ודמויות ייחודיות בגווני כחול וסגול. לחצו לקרוא עוד על ההשראה!
 
 ### גלריה
-https://halo-rose-cd9dd332.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריית Halo Rose ומצאו השראה בטבעות, תליונים, ברווזים דקורטיביים ויודאיקה בעבודת שרף ידנית. כל יצירה משדרת עומק ורוגע עם פלטת צבעים ייחודית. גלו את הפריט הבא שלכם עוד היום!
 
 ### עיצוב אישי
-https://halo-rose-cd9dd332.zappy5.app/custom-design
+https://example.com/custom-design
 רוצים טבעת הילה רוז גולד או דמות אפוקסי בהתאמה אישית? ב-Halo Rose נעצב יחד פריט ייחודי שמשקף את הסיפור שלכם, בטכניקות יציקה ידניות וגימור מושלם. צרו קשר והתחילו לתכנן את החלום!
 
 ### צור קשר
-https://halo-rose-cd9dd332.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תכשיט אפוקסי, רוז גולד או עיצוב יודאיקה אישי? צוות Halo Rose ישמח לשמוע מכם! מלאו את הטופס ונחזור אליכם במהירות עם חיוך וכל התשובות. בואו ליצור איתנו קשר עכשיו.
 
 ### Products
-https://halo-rose-cd9dd332.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Halo Rose
 
 ### Cart
-https://halo-rose-cd9dd332.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://halo-rose-cd9dd332.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://halo-rose-cd9dd332.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://halo-rose-cd9dd332.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://halo-rose-cd9dd332.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://halo-rose-cd9dd332.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Halo Rose
 
 ### Category
-https://halo-rose-cd9dd332.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Halo Rose
 
 ### תודה רבה
-https://halo-rose-cd9dd332.zappy5.app/thank-you
+https://example.com/thank-you
 Halo Rose - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://halo-rose-cd9dd332.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://halo-rose-cd9dd332.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://halo-rose-cd9dd332.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -110,8 +110,8 @@ Handmade Art & Jewelry E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://halo-rose-cd9dd332.zappy5.app/sitemap.xml
-- Robots: https://halo-rose-cd9dd332.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://halo-rose-cd9dd332.zappy5.app/llms-full.txt
-- Products (JSON): https://halo-rose-cd9dd332.zappy5.app/products.json
-- Products (Google Merchant RSS): https://halo-rose-cd9dd332.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
